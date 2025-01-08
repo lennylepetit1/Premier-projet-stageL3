@@ -2,6 +2,10 @@
 # firststageproject
 # My first stage project
 
+# L'objectif de ce code était de créer une interface graphique qui permet de calculer les moyennes
+# de l'ensemble des individus pour chaque facette du test de personnalité du Big 5 et de ses
+# sous-facettes. Un tableau excel avec les réponses des participants était inclut.
+
 import pandas as pd
 import tkinter as tk
 from tkinter import simpledialog
